@@ -1,4 +1,5 @@
 # profile-vue
+See [profile-vue](https://tc49.github.io/profile-vue/).
 
 ## Project setup
 ```
